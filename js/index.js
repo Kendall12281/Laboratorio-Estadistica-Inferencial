@@ -115,8 +115,8 @@
    var ejercicio2buttonElement = document.getElementById("buttonEjercicio2");
    ejercicio2buttonElement.classList.add("d-none");
    
-   let numerator = 17796672 - 17500000;
-   let denominator = 13324124.96 / Math.sqrt(180);
+   let numerator = media - 17500000;
+   let denominator = varianzaMuestral / Math.sqrt(n);
    
    let result = numerator / denominator;
    
@@ -140,8 +140,14 @@
      esAceptada.innerHTML += "Hipótesis es: "+resultado;
 
      var ejercicio1button1Element = document.getElementById("accordionPanelsStayOpenExample2");
-   ejercicio1button1Element.classList.remove("d-none");
+     ejercicio1button1Element.classList.remove("d-none");
+     
+     
+     var media1Element = document.getElementById("media1");
+     var varianza1Element = document.getElementById("varianza1");
 
+     media1Element.innerHTML += media;
+     varianza1Element.innerHTML += varianzaMuestral;
 
 
  }
