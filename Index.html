@@ -1,184 +1,158 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!-- Bootstrap 5 -->
-    <link href="Bootstrap/bootstrap.min.css" rel="stylesheet" />
-    <script src="Bootstrap/bootstrap.bundle.min.js"></script>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!-- Formula -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script
-      id="MathJax-script"
-      async
-      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
-    ></script>
+  <!-- Bootstrap 5 -->
+  <link href="Bootstrap/bootstrap.min.css" rel="stylesheet" />
+  <script src="Bootstrap/bootstrap.bundle.min.js"></script>
 
-    <title>Laboratorio Estadística Inferencial</title>
-  </head>
-  <body>
-    <div class="container">
-      <div class="mx-auto text-center">
-        <h1 class="m-5">Laboratorio Estadistica Inferencial</h1>
+  <!-- Formulas -->
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-        <!-- Integrantes -->
-        <div class="card m-5">
-          <div class="card-header">Integrantes</div>
-          <ul class="list-group list-group-flush">
-            <li class="list-group-item">Melvin Alfaro Dalolio</li>
-            <li class="list-group-item">Lorenzo Rodríguez Herrera</li>
-            <li class="list-group-item">Kendall Montenegro Segura</li>
-            <li class="list-group-item">Luis Carlos Amores Villalobos</li>
-          </ul>
+  <!-- Importar funciones para generar formulas -->
+  <script src="js/index.js"></script>
+
+  <title>Laboratorio Estadística Inferencial</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="mx-auto text-center">
+      <h1 class="m-5"><b>Laboratorio Estadistica Inferencial</b></h1>
+
+      <!-- Integrantes -->
+      <div class="card m-5 bg-info-subtle border-0 shadow-lg p-3 mb-5 bg-body-tertiary rounded">
+        <div class="card-header">Integrantes</div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Melvin Alfaro Dalolio</li>
+          <li class="list-group-item">Lorenzo Rodríguez Herrera</li>
+          <li class="list-group-item">Kendall Montenegro Segura</li>
+          <li class="list-group-item">Luis Carlos Amores Villalobos</li>
+        </ul>
+      </div>
+
+      <!-- Ejercicio #1 -->
+      <div class="card m-5 border shadow-lg p-3 mb-5 bg-body-tertiary rounded">
+        <div class="card-body">
+          <h5 class="card-title"><b>Ejercicio #1</b></h5>
+          <p class="card-text">
+            Determine el intervalo de confianza al <b>98%</b> para las ventas
+            medias de los productos ofertados, utilizar la desviación estandar
+            muestral.
+          </p>
+          <button type="button" class="btn btn-primary" id="buttonEjercicio1" onclick="obtenerEjercicio1()">
+            Realizar el Ejercicio
+          </button>
         </div>
 
-        <!-- Ejercicio #1 -->
-        <div class="card m-5">
-          <div class="card-body">
-            <h5 class="card-title">Ejercicio #1</h5>
-            <p class="card-text">
-              Determine el intervalo de confianza al <b>98%</b> para las ventas
-              medias de los productos ofertados, utilizar la desviación estandar
-              muestral.
-            </p>
-            <button
-              type="button"
-              class="btn btn-primary"
-              id="buttonEjercicio1"
-              onclick="obtenerEjercicio1()"
-            >
-              Realizar el Ejercicio
-            </button>
-          </div>
+        <div>
+          <!-- Acoordeon -->
+          <div class="accordion d-none" id="accordionPanelsStayOpenExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true"
+                  aria-controls="panelsStayOpen-collapseOne">
+                  Pasos para realizar ejercicio #1
+                </button>
+              </h2>
+              <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+                <div class="accordion-body">
+                  <h4><b>Paso #1</b></h4>
+                  <p>
+                    Obtener datos de la tabla de excel de la casilla de ventas
+                  </p>
 
-          <div>
-            <!-- Acoordeon -->
-            <div class="accordion d-none" id="accordionPanelsStayOpenExample">
-              <div class="accordion-item">
-                <h2 class="accordion-header">
-                  <button
-                    class="accordion-button"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#panelsStayOpen-collapseOne"
-                    aria-expanded="true"
-                    aria-controls="panelsStayOpen-collapseOne"
-                  >
-                    Pasos para realizar ejercicio #1
-                  </button>
-                </h2>
-                <div
-                  id="panelsStayOpen-collapseOne"
-                  class="accordion-collapse collapse show"
-                >
-                  <div class="accordion-body">
-                    <h4><b>Paso #1</b></h4>
-                    <p>
-                      Obtener datos de la tabla de excel de la casilla de ventas
-                    </p>
+                  <table class="table table-bordered container">
+                    <thead>
+                      <tr>
+                        <th>Año</th>
+                        <th>Mes</th>
+                        <th>Productos</th>
+                        <th>Region</th>
+                        <th>Unidades</th>
+                        <th>Vendedor</th>
+                        <th>Ventas (en $)</th>
+                      </tr>
+                    </thead>
+                    <tbody id="tableBody"></tbody>
+                  </table>
+                  <p><b>Nota</b>: Mostrando primeras 10 filas</p>
+                </div>
+                <div class="accordion-body">
+                  <h4><b>Paso #2</b></h4>
+                  <p>
+                    Obtener la media, la varianza muestral y el valor de Z
+                  </p>
 
-                    <table class="table table-bordered container">
-                      <thead>
-                        <tr>
-                          <th>Año</th>
-                          <th>Mes</th>
-                          <th>Productos</th>
-                          <th>Region</th>
-                          <th>Unidades</th>
-                          <th>Vendedor</th>
-                          <th>Ventas (en $)</th>
-                        </tr>
-                      </thead>
-                      <tbody id="tableBody"></tbody>
-                    </table>
-                    <p><b>Nota</b>: Mostrando primeras 10 filas</p>
-                  </div>
-                  <div class="accordion-body">
-                    <h4><b>Paso #2</b></h4>
-                    <p>
-                      Obtener la media, la varianza muestral y el valor de Z
-                    </p>
+                  <p id="media">Media:</p>
+                  <p id="varianza">Varianza:</p>
+                  <p>Z: 2.33</p>
+                </div>
 
-                    <p id="media">Media:</p>
-                    <p id="varianza">Varianza:</p>
-                    <p>Z: 2.33</p>
-                  </div>
-
-                  <div class="accordion-body" id="calculo1">
-                    <h4><b>Paso #3</b></h4>
-                    <p>Realizar los calculos</p>
-                  </div>
+                <div class="accordion-body" id="calculo1">
+                  <h4><b>Paso #3</b></h4>
+                  <p>Realizar los calculos</p>
                 </div>
               </div>
             </div>
           </div>
+        </div>
 
-          <!-- Ejercicio #2 -->
-          <div class="card m-5">
-            <div class="card-body">
-              <h5 class="card-title">Ejercicio #2</h5>
-              <p class="card-text">
-                Realice una prueba de hipotesis con un valor de significancia
-                del
-                <b>%5</b>, para determinar que el promedio muestral es menor que
-                el promedio poblacional de ventas ya que este es de
-                <b>$17 500 000</b>, utilizar la desviación estandar muestral y
-                la media muestral de los datos antes seleccionados.
-              </p>
-              <button
-                type="button"
-                class="btn btn-primary"
-                onclick="obtenerEjercicio2()"
-                id="buttonEjercicio2"
-              >
-                Realizar el Ejercicio
-              </button>
-            </div>
+        <!-- Ejercicio #2 -->
+        <div class="card m-5 border-0">
+          <div class="card-body">
+            <h5 class="card-title"><b>Ejercicio #2</b></h5>
+            <p class="card-text">
+              Realice una prueba de hipotesis con un valor de significancia
+              del
+              <b>%5</b>, para determinar que el promedio muestral es menor que
+              el promedio poblacional de ventas ya que este es de
+              <b>$17 500 000</b>, utilizar la desviación estandar muestral y
+              la media muestral de los datos antes seleccionados.
+            </p>
+            <button type="button" class="btn btn-primary" onclick="obtenerEjercicio2()" id="buttonEjercicio2">
+              Realizar el Ejercicio
+            </button>
+          </div>
 
-            <!-- Acoordeon -->
-            <div class="accordion d-none" id="accordionPanelsStayOpenExample2">
-              <div class="accordion-item">
-                <h2 class="accordion-header">
-                  <button
-                    class="accordion-button"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#panelsStayOpen1-collapseOne"
-                    aria-expanded="true"
-                    aria-controls="panelsStayOpen-collapseOne"
-                  >
-                    Pasos para realizar ejercicio #2
-                  </button>
-                </h2>
-                <div
-                  id="panelsStayOpen1-collapseOne"
-                  class="accordion-collapse collapse show"
-                >
-                  <div class="accordion-body">
-                    <h4><b>Paso #1</b></h4>
-                    <p>Obtener la hipótesis</p>
+          <!-- Acoordeon -->
+          <div class="accordion d-none" id="accordionPanelsStayOpenExample2">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                  data-bs-target="#panelsStayOpen1-collapseOne" aria-expanded="true"
+                  aria-controls="panelsStayOpen-collapseOne">
+                  Pasos para realizar ejercicio #2
+                </button>
+              </h2>
+              <div id="panelsStayOpen1-collapseOne" class="accordion-collapse collapse show">
+                <div class="accordion-body">
+                  <h4><b>Paso #1</b></h4>
+                  <p>Obtener la hipótesis</p>
 
-                    <p>La hipótesis nula (H0): μ ≤ 17,500,000</p>
-                    <p>La hipótesis alternativa (H1 o Ha): μ > 17,500,000</p>
-                  </div>
-                  <div class="accordion-body">
-                    <h4><b>Paso #2</b></h4>
-                    <p>Se crean valores criticos de z y zonas de rechazo</p>
+                  <p>La hipótesis nula (H0): μ ≤ 17,500,000</p>
+                  <p>La hipótesis alternativa (H1 o Ha): μ > 17,500,000</p>
+                </div>
+                <div class="accordion-body">
+                  <h4><b>Paso #2</b></h4>
+                  <p>Se crean valores criticos de z y zonas de rechazo</p>
 
-                    <img src="img/grafico.png" class="img-fluid" alt="..." />
-                  </div>
+                  <img src="img/grafico.png" class="img-fluid" alt="..." />
+                </div>
 
-                  <div class="accordion-body" id="calculo2">
-                    <h4><b>Paso #3</b></h4>
-                    <p>Se comprueba la hiótesis sustituyendo la fórmula</p>
-                  </div>
-                  <div class="accordion-body" id="esAceptada">
-                    <h4><b>Paso #4</b></h4>
-                    <p>Determinar si la hipótesis es aceptada</p>
-                    
-                  </div>
+                <div class="accordion-body" id="calculo2">
+                  <h4><b>Paso #3</b></h4>
+                  <p>Se comprueba la hiótesis sustituyendo la fórmula</p>
+                </div>
+                <div class="accordion-body" id="esAceptada">
+                  <h4><b>Paso #4</b></h4>
+                  <p>Determinar si la hipótesis es aceptada</p>
+
                 </div>
               </div>
             </div>
@@ -186,174 +160,8 @@
         </div>
       </div>
     </div>
-  </body>
-
-  <script>
-    //Almacenar datos del JSON
-    var datosVentas;
-    var datosTotales;
-    var media;
-    var varianzaMuestral;
-    var n;
-
-    // Obtener datos de JSON
-    function fetchData() {
-      fetch("http://localhost:5555/Ventas")
-        .then((response) => {
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          return response.json();
-        })
-        .then((data) => {
-          const ventas = data.map((objeto) => objeto["Ventas (en $)"]);
-          useData(ventas, data);
-        })
-        .catch((error) => {
-          console.error("Hubo un problema obteniendo los recursos:", error);
-        });
-    }
-
-    function useData(jsonData, totales) {
-      datosVentas = jsonData;
-      datosTotales = totales;
-
-      varianzaMuestral = calcularVarianzaMuestral(jsonData)
-    }
-
-    function calcularVarianzaMuestral(muestra) {
-      console.log("muestra", muestra);
-      // Calcular la media de la muestra
-      media = muestra.reduce((acum, valor) => acum + valor, 0) / muestra.length;
-      n = muestra.length;
-
-      // Calcular la varianza muestral
-      const varianza =
-        muestra.reduce((acum, valor) => acum + Math.pow(valor - media, 2), 0) /
-        (muestra.length - 1);
+  </div>
+</body>
 
 
-
-      return Math.sqrt(varianza);
-    }
-
-    //cargar datos del JSON
-    fetchData();
-
-    function obtenerEjercicio1() {
-      CargarTabla();
-
-      //mostrar media y varianza
-
-      var mediaElement = document.getElementById("media");
-      var varianzaElement = document.getElementById("varianza");
-
-      mediaElement.textContent += media;
-      varianzaElement.textContent += varianzaMuestral;
-
-      //hacer los calculos
-      var calculoElement = document.getElementById("calculo1");
-      //   var calculoString = "${media}-2.33*${varianza}/";
-      var calculoString =
-        "\\[ " +
-        media +
-        " - 2.33 \\pm \\frac{" +
-        varianzaMuestral +
-        "}{\\sqrt{" +
-        n +
-        "}} \\]";
-      var resultado1 = media - (2.33 * varianzaMuestral) / Math.sqrt(n);
-      var resultado2 = media + (2.33 * varianzaMuestral) / Math.sqrt(n);
-
-      calculoElement.innerHTML += calculoString;
-      calculoElement.innerHTML += resultado1 + "  <µ<  " + resultado2;
-
-      //renderizar la formula en html
-      MathJax.typesetPromise()
-        .then(() => {
-          console.log("Fórmula renderizada con MathJax.");
-        })
-        .catch((err) => console.log("Error al renderizar con MathJax:", err));
-
-      console.log("Varianza muestral:", varianzaMuestral);
-
-      var ejercicio1Element = document.getElementById(
-        "accordionPanelsStayOpenExample"
-      );
-      ejercicio1Element.classList.remove("d-none");
-
-      var ejercicio1buttonElement = document.getElementById("buttonEjercicio1");
-      ejercicio1buttonElement.classList.add("d-none");
-    }
-
-    function obtenerEjercicio2() {
-      //hacer los calculos
-      var calculo2Element = document.getElementById("calculo2");
-      
-      var calculoString =
-      "\\[\\frac{" +
-      media +
-      "- 17500000}{\\frac{" +
-      varianzaMuestral +
-      "}{\\sqrt{" +
-      n +
-      "}}}\\]";
-      
-      calculo2Element.innerHTML += calculoString;
-      
-      
-      
-      var ejercicio2buttonElement = document.getElementById("buttonEjercicio2");
-      ejercicio2buttonElement.classList.add("d-none");
-      
-      let numerator = 17796672 - 17500000;
-      let denominator = 13324124.96 / Math.sqrt(180);
-      
-      let result = numerator / denominator;
-      
-      calculo2Element.innerHTML += "Resultado: "+result;
-      
-      //renderizar la formula en html
-      MathJax.typesetPromise()
-      .then(() => {
-          console.log("Fórmula renderizada con MathJax.");
-        })
-        .catch((err) => console.log("Error al renderizar con MathJax:", err));
-        
-        var esAceptada = document.getElementById("esAceptada");
-        var resultado = "Aceptada"
-        
-        if(result <= 1.64 && result >= -1.64 ){
-        }else{
-            resultado = "Rechazada"
-        }
-        
-        esAceptada.innerHTML += "Hipótesis es: "+resultado;
-
-        var ejercicio1button1Element = document.getElementById("accordionPanelsStayOpenExample2");
-      ejercicio1button1Element.classList.remove("d-none");
-
-
-
-    }
-
-    function CargarTabla() {
-      var tableBody = document.getElementById("tableBody");
-      for (var i = 0; i < 10; i++) {
-        if (datosTotales[i]) {
-          var row = `<tr>
-                        <td>${datosTotales[i].Año}</td>
-                        <td>${datosTotales[i].Mes}</td>
-                        <td>${datosTotales[i].Productos}</td>
-                        <td>${datosTotales[i].Región}</td>
-                        <td>${datosTotales[i].Unidades}</td>
-                        <td>${datosTotales[i].Vendedor}</td>
-                        <td>$${datosTotales[i]["Ventas (en $)"]}</td>
-                         
-                        </tr>`;
-          tableBody.innerHTML += row;
-        }
-      }
-    }
-  </script>
 </html>
