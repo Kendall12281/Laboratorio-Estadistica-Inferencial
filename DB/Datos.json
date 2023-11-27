@@ -1,0 +1,1625 @@
+{
+    "Ventas":
+    [
+        {
+         "Mes": "Ene",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 1413,
+         "Ventas (en $)": 11747242,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 4810,
+         "Ventas (en $)": 30765033,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 1055,
+         "Ventas (en $)": 5090135,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3684,
+         "Ventas (en $)": 31929296,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 2893,
+         "Ventas (en $)": 18318567,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Juárez",
+         "Unidades": 3750,
+         "Ventas (en $)": 24348714,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 4380,
+         "Ventas (en $)": 8427590,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Lujan",
+         "Unidades": 2341,
+         "Ventas (en $)": 31075727,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Zuloaga",
+         "Unidades": 1306,
+         "Ventas (en $)": 5417604,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Zuloaga",
+         "Unidades": 4851,
+         "Ventas (en $)": 7999078,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3533,
+         "Ventas (en $)": 7658056,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Sánchez",
+         "Unidades": 1759,
+         "Ventas (en $)": 6478805,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Sánchez",
+         "Unidades": 1023,
+         "Ventas (en $)": 8057755,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Lujan",
+         "Unidades": 2815,
+         "Ventas (en $)": 16917541,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Juárez",
+         "Unidades": 3055,
+         "Ventas (en $)": 7878480,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Zuloaga",
+         "Unidades": 3009,
+         "Ventas (en $)": 11257947,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 1807,
+         "Ventas (en $)": 18002618,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Juárez",
+         "Unidades": 2455,
+         "Ventas (en $)": 26417450,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Lujan",
+         "Unidades": 4301,
+         "Ventas (en $)": 21478628,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 3562,
+         "Ventas (en $)": 9309943,
+         "Región": "Central"
+        },
+        {
+         "Mes": "May",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 2288,
+         "Ventas (en $)": 29657237,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "May",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 2607,
+         "Ventas (en $)": 6428849,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "May",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Lujan",
+         "Unidades": 4058,
+         "Ventas (en $)": 30435593,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "May",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2697,
+         "Ventas (en $)": 9662521,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "May",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Sánchez",
+         "Unidades": 1262,
+         "Ventas (en $)": 9325822,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 3399,
+         "Ventas (en $)": 23606354,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 4991,
+         "Ventas (en $)": 7707689,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2659,
+         "Ventas (en $)": 7919393,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Zuloaga",
+         "Unidades": 3761,
+         "Ventas (en $)": 8066334,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2061,
+         "Ventas (en $)": 20180744,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Zuloaga",
+         "Unidades": 4125,
+         "Ventas (en $)": 6788991,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Lujan",
+         "Unidades": 3863,
+         "Ventas (en $)": 30389515,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Juárez",
+         "Unidades": 2291,
+         "Ventas (en $)": 16130387,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 2696,
+         "Ventas (en $)": 26234243,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2925,
+         "Ventas (en $)": 31204355,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Lujan",
+         "Unidades": 3207,
+         "Ventas (en $)": 26670251,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 928,
+         "Ventas (en $)": 20233647,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 1386,
+         "Ventas (en $)": 13353392,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Juárez",
+         "Unidades": 3671,
+         "Ventas (en $)": 23367335,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 2627,
+         "Ventas (en $)": 9299840,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Lujan",
+         "Unidades": 2636,
+         "Ventas (en $)": 11433092,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Sánchez",
+         "Unidades": 3696,
+         "Ventas (en $)": 10106212,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Sánchez",
+         "Unidades": 3452,
+         "Ventas (en $)": 19813786,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Lujan",
+         "Unidades": 4754,
+         "Ventas (en $)": 20896240,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2537,
+         "Ventas (en $)": 13677001,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3261,
+         "Ventas (en $)": 15535130,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 4951,
+         "Ventas (en $)": 12222666,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3893,
+         "Ventas (en $)": 15513284,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Zuloaga",
+         "Unidades": 4858,
+         "Ventas (en $)": 13669395,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Juárez",
+         "Unidades": 3142,
+         "Ventas (en $)": 21837764,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Lujan",
+         "Unidades": 4397,
+         "Ventas (en $)": 26381433,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3983,
+         "Ventas (en $)": 18755446,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Juárez",
+         "Unidades": 4638,
+         "Ventas (en $)": 21936584,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 1546,
+         "Ventas (en $)": 24898288,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Juárez",
+         "Unidades": 1162,
+         "Ventas (en $)": 5792861,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2008,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Zuloaga",
+         "Unidades": 1539,
+         "Ventas (en $)": 21394635,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2008,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2798,
+         "Ventas (en $)": 21411284,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2008,
+         "Productos": "Bebidas",
+         "Vendedor": "Lujan",
+         "Unidades": 3781,
+         "Ventas (en $)": 22925625,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2008,
+         "Productos": "Carnes",
+         "Vendedor": "Juárez",
+         "Unidades": 3035,
+         "Ventas (en $)": 18264416,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2008,
+         "Productos": "Víveres",
+         "Vendedor": "Sánchez",
+         "Unidades": 2619,
+         "Ventas (en $)": 5540308,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Zuloaga",
+         "Unidades": 1018,
+         "Ventas (en $)": 25078121,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Lujan",
+         "Unidades": 4295,
+         "Ventas (en $)": 16927126,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2566,
+         "Ventas (en $)": 21006431,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Zuloaga",
+         "Unidades": 4836,
+         "Ventas (en $)": 15867065,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Juárez",
+         "Unidades": 1137,
+         "Ventas (en $)": 5147572,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 983,
+         "Ventas (en $)": 29014564,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 4924,
+         "Ventas (en $)": 12732093,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Lujan",
+         "Unidades": 3385,
+         "Ventas (en $)": 23594558,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Lujan",
+         "Unidades": 2936,
+         "Ventas (en $)": 26855207,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Cárdenas",
+         "Unidades": 4134,
+         "Ventas (en $)": 27692129,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Zuloaga",
+         "Unidades": 3309,
+         "Ventas (en $)": 12097081,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 1829,
+         "Ventas (en $)": 24143127,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Sánchez",
+         "Unidades": 2145,
+         "Ventas (en $)": 14358111,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 995,
+         "Ventas (en $)": 8718052,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Zuloaga",
+         "Unidades": 984,
+         "Ventas (en $)": 21702854,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Lujan",
+         "Unidades": 3925,
+         "Ventas (en $)": 24435739,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 4150,
+         "Ventas (en $)": 26091699,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2162,
+         "Ventas (en $)": 8280515,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 932,
+         "Ventas (en $)": 17647949,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Juárez",
+         "Unidades": 1146,
+         "Ventas (en $)": 26212472,
+         "Región": "Central"
+        },
+        {
+         "Mes": "May",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 2341,
+         "Ventas (en $)": 6385654,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "May",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2413,
+         "Ventas (en $)": 11217929,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "May",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Lujan",
+         "Unidades": 3971,
+         "Ventas (en $)": 29989212,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "May",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 3695,
+         "Ventas (en $)": 26752434,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "May",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 1292,
+         "Ventas (en $)": 17359884,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Juárez",
+         "Unidades": 2260,
+         "Ventas (en $)": 5126450,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3905,
+         "Ventas (en $)": 10579704,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 981,
+         "Ventas (en $)": 25986138,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2133,
+         "Ventas (en $)": 24566041,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Juárez",
+         "Unidades": 3403,
+         "Ventas (en $)": 9790633,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Juárez",
+         "Unidades": 2310,
+         "Ventas (en $)": 25516215,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3855,
+         "Ventas (en $)": 26452658,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3933,
+         "Ventas (en $)": 16252665,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 4538,
+         "Ventas (en $)": 12131878,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 2211,
+         "Ventas (en $)": 14885918,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2047,
+         "Ventas (en $)": 8310230,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Lujan",
+         "Unidades": 1116,
+         "Ventas (en $)": 12483245,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Lujan",
+         "Unidades": 1526,
+         "Ventas (en $)": 9658136,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 2538,
+         "Ventas (en $)": 20260377,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Sánchez",
+         "Unidades": 4425,
+         "Ventas (en $)": 5870101,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Juárez",
+         "Unidades": 1777,
+         "Ventas (en $)": 23972335,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3501,
+         "Ventas (en $)": 11003834,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Sánchez",
+         "Unidades": 2102,
+         "Ventas (en $)": 6364343,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Juárez",
+         "Unidades": 2912,
+         "Ventas (en $)": 17918813,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Zuloaga",
+         "Unidades": 1127,
+         "Ventas (en $)": 13363854,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Cárdenas",
+         "Unidades": 4983,
+         "Ventas (en $)": 18114279,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Lujan",
+         "Unidades": 3717,
+         "Ventas (en $)": 16039246,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Lujan",
+         "Unidades": 3710,
+         "Ventas (en $)": 22140321,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 3726,
+         "Ventas (en $)": 27800655,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3061,
+         "Ventas (en $)": 24939400,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Juárez",
+         "Unidades": 2754,
+         "Ventas (en $)": 31553984,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2096,
+         "Ventas (en $)": 31378227,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 3000,
+         "Ventas (en $)": 6264677,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 2109,
+         "Ventas (en $)": 11102083,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 4701,
+         "Ventas (en $)": 26261678,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2009,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Cárdenas",
+         "Unidades": 1193,
+         "Ventas (en $)": 30643074,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2009,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 3641,
+         "Ventas (en $)": 22334665,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2009,
+         "Productos": "Bebidas",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3190,
+         "Ventas (en $)": 19446356,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2009,
+         "Productos": "Carnes",
+         "Vendedor": "Lujan",
+         "Unidades": 2650,
+         "Ventas (en $)": 30372259,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2009,
+         "Productos": "Víveres",
+         "Vendedor": "Sánchez",
+         "Unidades": 4030,
+         "Ventas (en $)": 8654422,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Zuloaga",
+         "Unidades": 933,
+         "Ventas (en $)": 17785852,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 3311,
+         "Ventas (en $)": 30558635,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Juárez",
+         "Unidades": 1663,
+         "Ventas (en $)": 30051572,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Juárez",
+         "Unidades": 1088,
+         "Ventas (en $)": 18194098,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Ene",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Juárez",
+         "Unidades": 2531,
+         "Ventas (en $)": 16944827,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Zuloaga",
+         "Unidades": 3454,
+         "Ventas (en $)": 5855114,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Zuloaga",
+         "Unidades": 3044,
+         "Ventas (en $)": 11783323,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Cárdenas",
+         "Unidades": 4672,
+         "Ventas (en $)": 20725397,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Sánchez",
+         "Unidades": 3187,
+         "Ventas (en $)": 9831454,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Feb",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Sánchez",
+         "Unidades": 4169,
+         "Ventas (en $)": 21416077,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 1302,
+         "Ventas (en $)": 16000781,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Cárdenas",
+         "Unidades": 4271,
+         "Ventas (en $)": 22379055,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Lujan",
+         "Unidades": 4574,
+         "Ventas (en $)": 23403699,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Lujan",
+         "Unidades": 2109,
+         "Ventas (en $)": 15430177,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Mar",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 3577,
+         "Ventas (en $)": 7474946,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 4811,
+         "Ventas (en $)": 17156818,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 1908,
+         "Ventas (en $)": 8811970,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2030,
+         "Ventas (en $)": 26065419,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2072,
+         "Ventas (en $)": 20187167,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Abr",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 4261,
+         "Ventas (en $)": 15874389,
+         "Región": "Central"
+        },
+        {
+         "Mes": "May",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 1996,
+         "Ventas (en $)": 23079163,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "May",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 4132,
+         "Ventas (en $)": 14165841,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "May",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 4151,
+         "Ventas (en $)": 10436592,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "May",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 4153,
+         "Ventas (en $)": 24478544,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "May",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 2634,
+         "Ventas (en $)": 14483060,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 3043,
+         "Ventas (en $)": 20842073,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 2264,
+         "Ventas (en $)": 21708461,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 2131,
+         "Ventas (en $)": 25501630,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2918,
+         "Ventas (en $)": 18209808,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Jun",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 4210,
+         "Ventas (en $)": 9226347,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 3867,
+         "Ventas (en $)": 18659009,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 2507,
+         "Ventas (en $)": 19832348,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 3508,
+         "Ventas (en $)": 14196849,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 1425,
+         "Ventas (en $)": 17959045,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Jul",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 3439,
+         "Ventas (en $)": 30486465,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 4859,
+         "Ventas (en $)": 23269797,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 3669,
+         "Ventas (en $)": 23375718,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 4562,
+         "Ventas (en $)": 10629130,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2613,
+         "Ventas (en $)": 25398033,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Ago",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 4363,
+         "Ventas (en $)": 26787710,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 1379,
+         "Ventas (en $)": 12801434,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 3663,
+         "Ventas (en $)": 29592962,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 1026,
+         "Ventas (en $)": 23182580,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 3338,
+         "Ventas (en $)": 30817683,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Sep",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 3759,
+         "Ventas (en $)": 9168379,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 2734,
+         "Ventas (en $)": 16356155,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 2163,
+         "Ventas (en $)": 29503575,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 4758,
+         "Ventas (en $)": 9312010,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2167,
+         "Ventas (en $)": 22960434,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Oct",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 960,
+         "Ventas (en $)": 9124694,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 3365,
+         "Ventas (en $)": 19324281,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 1398,
+         "Ventas (en $)": 19471883,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 951,
+         "Ventas (en $)": 11066989,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 2018,
+         "Ventas (en $)": 5608677,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Nov",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 4066,
+         "Ventas (en $)": 21530703,
+         "Región": "Central"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2010,
+         "Productos": "Productos Lácteos",
+         "Vendedor": "Sánchez",
+         "Unidades": 1708,
+         "Ventas (en $)": 7740822,
+         "Región": "Caribe"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2010,
+         "Productos": "Verduras",
+         "Vendedor": "Juárez",
+         "Unidades": 1243,
+         "Ventas (en $)": 9319345,
+         "Región": "Antioquia"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2010,
+         "Productos": "Bebidas",
+         "Vendedor": "Zuloaga",
+         "Unidades": 1308,
+         "Ventas (en $)": 13992377,
+         "Región": "Pacífico"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2010,
+         "Productos": "Carnes",
+         "Vendedor": "Cárdenas",
+         "Unidades": 4242,
+         "Ventas (en $)": 7839347,
+         "Región": "Santanderes"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 2998,
+         "Ventas (en $)": 31939624,
+         "Región": "Central"
+        }
+       ]
+    }
