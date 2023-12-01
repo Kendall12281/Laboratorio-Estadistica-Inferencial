@@ -62,11 +62,11 @@
 
    //hacer los calculos
    var calculoElement = document.getElementById("calculo1");
-   //   var calculoString = "${media}-2.33*${varianza}/";
+   //  2.33 es el valor de Z
    var calculoString =
      "\\[ " +
      media +
-     " - 2.33 \\pm \\frac{" +
+     " \\pm 2.33 * \\frac{" +
      varianzaMuestral +
      "}{\\sqrt{" +
      n +

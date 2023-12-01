@@ -1620,6 +1620,15 @@
          "Unidades": 2998,
          "Ventas (en $)": 31939624,
          "Región": "Central"
+        },
+        {
+         "Mes": "Dic",
+         "Año": 2010,
+         "Productos": "Víveres",
+         "Vendedor": "Lujan",
+         "Unidades": 2998,
+         "Ventas (en $)": 31939624,
+         "Región": "Central"
         }
        ]
     }
